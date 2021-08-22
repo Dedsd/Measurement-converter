@@ -1,4 +1,4 @@
-## Measurement converter with python
+## Measurement converter
 ![gif](example.gif)
 
 ### A python measure converter with more than 40 conversions. Can be used in other projects or just normal use
