@@ -76,7 +76,7 @@
 - km/h = kilometers per hour
 - mph = miles per hour
 - knot = knot
-- km/s = kilomers per second
+- km/s = kilometers per second
 
 ---
 
